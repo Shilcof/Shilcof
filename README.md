@@ -26,5 +26,5 @@
   <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" alt="bootstrap" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/heroku-original.svg?size=128&color=currentColor" alt="heroku" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/heroku-plain.svg?size=128&color=currentColor" alt="heroku" align="left" width="40" height="40"/>
 </p>
