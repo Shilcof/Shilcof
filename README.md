@@ -2,7 +2,7 @@
 
 Full Stack Software Engineer, experienced building applications with Ruby, Rails, Javascript, React, and Redux. 
 
-Published blog writer with gitconnected and The Startup over on Medium, covering topics including getting the most out Rails and integrating features into React projects.
+Published blog writer with Level Up Coding and The Startup over on Medium, covering topics including getting the most out Rails and integrating features into React projects.
 
 Explore my recent projects pinned below.
 
