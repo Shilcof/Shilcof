@@ -1,11 +1,10 @@
 # Hi, I'm Robert
 
+Full Stack Software Engineer, experienced building applications with Ruby, Rails, Javascript, React, and Redux. 
 
+Published blog writer with gitconnected and The Startup over on Medium, covering topics including getting the most out Rails and integrating features into React projects.
 
-## Projects
-
-
-
+Explore my recent projects pinned below.
 
 ## Get in touch
 
