@@ -11,9 +11,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/robert-shilcof/" target="blank"><img align="left" src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=currentColor" height="30" width="30" /></a>
-  <a href="https://robert-shilcof.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
+  <a href="https://robert-shilcof.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" />     </a>
 </p>
- 
+
+<br/>
 
 ## Skills
 
